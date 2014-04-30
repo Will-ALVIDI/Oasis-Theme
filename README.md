@@ -4,4 +4,4 @@ This theme is designed especially for Sublime Text with [C++ Starting Kit](https
 
 # Preview
 
-![Oasis Theme preview](https://github.com/kodLite/Oasis-Theme/blob/master/screenshot/Preview-Oasis-Theme_002.jpg?raw=true)
+![Oasis Theme preview](https://github.com/kodLite/cppStartingKit-Guide/blob/master/screenshot/Oasis-Theme/Preview-Oasis-Theme_002.jpg?raw=true)
