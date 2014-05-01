@@ -1,6 +1,6 @@
 # Oasis Theme
 
-This theme is designed especially for Sublime Text with [C++ Starting Kit](https://github.com/kodLite/cppStartingKit). It mainly supports C, C++, C++11, XML, JSON. Other languages are supported but are not fully design for.
+This theme is designed especially for Sublime Text with [C++ Starting Kit](https://sublime.wbond.net/packages/C%2B%2B%20Starting%20Kit). It mainly supports C, C++, C++11, XML, JSON. Other languages are supported but are not fully design for.
 
 # Preview
 
