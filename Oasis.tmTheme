@@ -178,7 +178,7 @@
 			<key>name</key>
 			<string>Methods</string>
 			<key>scope</key>
-			<string>meta.function-call, meta.function-call variable.language, meta.item-access,meta.item-access variable.language, entity.other.attribute-name, entity.name.function, support.function, source.c++ meta.function.c meta.block.c meta.function-call.c support.function.any-method.c, source.c++ meta.function.c meta.block.c meta.function-call.c support.function.any-method.c, source.c++ meta.class-struct-block.c++ entity.name.type.c++, function.support.ccpp</string>
+			<string>meta.function-call, meta.function-call variable.language, meta.item-access,meta.item-access variable.language, entity.other.attribute-name, entity.name.function, support.function, source.c++ meta.function.c meta.block.c meta.function-call.c support.function.any-method.c, source.c++ meta.function.c meta.block.c meta.function-call.c support.function.any-method.c, source.c++ meta.class-struct-block.c++ entity.name.type.c++, meta.class-struct.c++ entity.name.type.c++</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
