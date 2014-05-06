@@ -254,7 +254,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Semi colon C/C++</string>
+			<string>Semicolon C/C++</string>
 			<key>scope</key>
 			<string>semi_colon.ccpp</string>
 			<key>settings</key>
@@ -267,7 +267,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Semi colon end of line C/C++</string>
+			<string>Semicolon end of line C/C++</string>
 			<key>scope</key>
 			<string>semi_colon.eol.ccpp</string>
 			<key>settings</key>
@@ -306,33 +306,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function C/C++</string>
-			<key>scope</key>
-			<string>function.support.ccpp</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#b39847</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Punctuation C/C++</string>
+			<string>Coma C/C++</string>
 			<key>scope</key>
 			<string>coma.ccpp, semi_colon.ccpp</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#e52e2e</string>
+				<string>#bfbfbf</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Punctuation C/C++</string>
+			<string>Period C/C++</string>
 			<key>scope</key>
 			<string>period.ccpp</string>
 			<key>settings</key>
@@ -341,6 +328,71 @@
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#a64242</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Operators C++</string>
+			<key>scope</key>
+			<string>keyword.operator.arithmetic.ccpp, keyword.operator.comparison.ccpp, keyword.operator.bitwise.ccpp, keyword.operator.logical.ccpp, keyword.operator.compound.ccpp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#cc7014</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Array C++</string>
+			<key>scope</key>
+			<string>array.ccpp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#3aa68e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Array C++</string>
+			<key>scope</key>
+			<string>open.angle.bracket.array.ccpp, open.angle.bracket.array.ccpp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#1ab076</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Adress C++</string>
+			<key>scope</key>
+			<string>adress.ccpp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#7950b3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pointer C++</string>
+			<key>scope</key>
+			<string>pointer.ccpp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#bf43a0</string>
 			</dict>
 		</dict>
 		<dict>
