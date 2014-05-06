@@ -353,20 +353,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3aa68e</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Array C++</string>
-			<key>scope</key>
-			<string>open.angle.bracket.array.ccpp, open.angle.bracket.array.ccpp</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#1ab076</string>
+				<string>#43bfa4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -379,7 +366,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#7950b3</string>
+				<string>#a373e5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -392,7 +379,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bf43a0</string>
+				<string>#d94cb6</string>
 			</dict>
 		</dict>
 		<dict>
