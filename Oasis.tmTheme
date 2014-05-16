@@ -241,9 +241,22 @@
 		</dict>	
 		<dict>
 			<key>name</key>
+			<string>Storage Modifier C</string>
+			<key>scope</key>
+			<string>storage.modifier.c</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#cc7014</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Storage Modifier C/C++</string>
 			<key>scope</key>
-			<string>storage.modifier</string>
+			<string>storage.modifier.c++</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -295,7 +308,7 @@
 			<key>name</key>
 			<string>Curly Brackets Block C/C++</string>
 			<key>scope</key>
-			<string>open.curly.bracket.block.ccpp, close.curly.bracket.block.ccpp</string>
+			<string>open.curly.bracket.block, close.curly.bracket</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -358,9 +371,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Adress C++</string>
+			<string>Address C++</string>
 			<key>scope</key>
-			<string>adress.ccpp</string>
+			<string>address.ccpp</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -380,6 +393,58 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#d94cb6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deconstructor C++</string>
+			<key>scope</key>
+			<string>deconstructor.ccpp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#b39847</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable C++</string>
+			<key>scope</key>
+			<string>variable</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#8fa0bf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage C++</string>
+			<key>scope</key>
+			<string>storage type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#cc7014</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Member Initializer C++</string>
+			<key>scope</key>
+			<string>member.initializer</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#8fa0bf</string>
 			</dict>
 		</dict>
 		<dict>
