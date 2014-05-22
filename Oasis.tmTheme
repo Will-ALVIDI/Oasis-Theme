@@ -124,6 +124,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Raw String Delimiters</string>
+			<key>scope</key>
+			<string>raw.string prefix, raw.string begin, raw.string end</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#acac00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Raw String</string>
+			<key>scope</key>
+			<string>raw.string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#61a64b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>JSON Entity Tag</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
