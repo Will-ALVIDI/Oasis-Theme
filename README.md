@@ -12,5 +12,5 @@ You need Oasis Theme, [Soda Dark Theme](http://buymeasoda.github.io/soda-theme/)
 
 ## Manually
 
-## From Package Comtrol
+## From Package Control
 Now available
